@@ -151,7 +151,7 @@
             this.Controls.Add(this.label2);
             this.Controls.Add(this.label1);
             this.Name = "Layout";
-            this.Text = "Aplikasi Kalkulator Versi Windows";
+            this.Text = "Aplikasi Kalkulator";
             this.ResumeLayout(false);
             this.PerformLayout();
 
