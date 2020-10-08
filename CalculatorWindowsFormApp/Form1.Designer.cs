@@ -100,7 +100,9 @@
             "Penambahan",
             "Pengurangan",
             "Perkalian",
-            "Pembagian"});
+            "Pembagian",
+            "Pangkat",
+            "Modulo"});
             this.cbOperasi.Location = new System.Drawing.Point(108, 30);
             this.cbOperasi.Name = "cbOperasi";
             this.cbOperasi.Size = new System.Drawing.Size(100, 21);
